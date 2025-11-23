@@ -42,15 +42,6 @@ Aqui você encontrará meus projetos, estudos e experimentos com Java, Spring Bo
 #### 🔹 [System API Auth](https://github.com/daniloblimaa/system-api-auth)
 API de autenticação e autorização segura usando **Spring Boot 3 + JWT + Spring Security**.
 
-#### 🔹 [EducaMaisEar](#)
-Plataforma de ensino inclusiva, com foco em cursos técnicos e engajamento de alunos.  
-Stack: **React + Spring Boot + MySQL**
-
-#### 🔹 [Gestão de Eventos e Frotas](#)
-Aplicativo Flutter para controle operacional de eventos, incluindo gestão de frota, manutenção, abastecimento e dashboards em tempo real.
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
